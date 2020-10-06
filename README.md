@@ -32,5 +32,5 @@ the machine learning model, it will give us the result of wine quality.
 We can use supervised learning to implement a model like this.
 
 
-New Project Ideas will be added soon!!
+New Project Ideas will be added soon!! 🔔🔔🔔
 
