@@ -28,7 +28,7 @@ we will use the Titanic dataset that contains real data of the survivors and peo
 the machine learning model, it will give us the result of wine quality.
 
 7. **Fake News Detection Project**<br>
-**Project Idea**: Project idea – Fake news spreads like a wildfire and this is a big issue in this era. We can learn how to distinguish fake news from a real one. 
+**Project Idea**: Fake news spreads like a wildfire and this is a big issue in this era. We can learn how to distinguish fake news from a real one. 
 We can use supervised learning to implement a model like this.
 
 <br>
