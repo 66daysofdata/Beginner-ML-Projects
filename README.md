@@ -7,8 +7,8 @@ This list is curated to learn ML by making projects on Regression, Classificatio
       **Project Idea**: Transform images into its cartoon. Yes, the objective of this machine learning project is to cartoonify the images.  Thus, we will build a python application that will transform an image into its cartoon using machine learning libraries.
 
 2. **Iris Flowers Classification**
-.
-      **Project idea**: This is a beginner friendly project with a very easy dataset to work on. The iris flowers have different species and you can distinguish them based on the length of petals and sepals.  A basic project for machine learning beginners to predict the species of a new iris flower.
+
+     **Project idea**: This is a beginner friendly project with a very easy dataset to work on. The iris flowers have different species and you can distinguish them based on the length of petals and sepals.  A basic project for machine learning beginners to predict the species of a new iris flower.
 
 3. **Loan Prediction**
 
