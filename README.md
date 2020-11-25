@@ -18,7 +18,7 @@ This list is curated to learn ML by making projects on Regression, Classificatio
 
       **Project Idea**:  The dataset has house prices of the Boston residential areas.  The expense of the house varies according to various factors like crime rate, number of rooms, etc... It is a good ML project for beginners to predict prices on the basis of new data.
 
-5. **Titanic Survival:**
+5. **Titanic Survival**
 
       **Project idea**:  This will be a fun project to build as we will be predicting whether someone would have survived if they were in the titanic ship or not. For this beginner’s project.  We will use the Titanic dataset that contains real data of the survivors and people who died in the Titanic ship.
 
