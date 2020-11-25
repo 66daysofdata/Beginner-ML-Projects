@@ -4,8 +4,8 @@ This list is curated to learn ML by making projects on Regression, Classificatio
 
 1. **Cartoonify Image with Machine Learning**
 
-    **Project Idea**: Transform images into its cartoon. Yes, the objective of this machine learning project is to cartoonify the images. 
-    Thus, we will build a python application that will transform an image into its cartoon using machine learning libraries.
+       **Project Idea**: Transform images into its cartoon. Yes, the objective of this machine learning project is to cartoonify the images. 
+       Thus, we will build a python application that will transform an image into its cartoon using machine learning libraries.
 
 2. **Iris Flowers Classification**
 .
